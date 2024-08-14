@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am a research design engineer and environmental scientist
+
+I am interested in engineered solutions to energy, the environment, and climate change.
+
+Here is my: <br />
+<a href= "https://efollansbee.github.io/">Website</a><br />
+<a href= "https://www.linkedin.com/in/emilyfollansbee/">LinkedIn</a><br />
+<a href= "https://scholar.google.com/citations?user=94p-t5UAAAAJ&hl=en&oi=ao">Google Scholar</a><br />
+
+
 <!--
 **efollansbee/efollansbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
