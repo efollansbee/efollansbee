@@ -4,7 +4,7 @@
 
 🌱 Interested in engineered solutions to energy, the environment, and climate change.
 
-💬 Currently researching methane emissions from orphaned Oil and Gas wells as part of the DOE <a href= "https://catalog.energy.gov/">CATALOG</a> Project at Los Alamos National Laboratory
+💬 Currently researching methane emissions from orphaned oil and gas wells as part of the DOE <a href= "https://catalog.energy.gov/">CATALOG</a> Project at Los Alamos National Laboratory
 
 
 
