@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I am a research design engineer and environmental scientist
+🔭 I am a research design engineer and environmental scientist
 
-I am interested in engineered solutions to energy, the environment, and climate change.
+🌱 Interested in engineered solutions to energy, the environment, and climate change.
+
+💬 Currently researching methane emissions from orphaned Oil and Gas wells as part of the DOE <a href= "https://catalog.energy.gov/">CATALOG</a> Project at Los Alamos National Laboratory
+
+
 
 Here is my: <br />
 <a href= "https://efollansbee.github.io/">Website</a><br />
